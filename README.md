@@ -10,7 +10,7 @@ This run i had to disable the Insertion, Selection and bubble sort as it would j
 ![Figure 2](Figure_2.png)
 
 
-Hardware Tested:
-CPU: AMD 5950x (stock clock)
-RAM: 128GB Trident Z Neo CL16
-GPU: Nvidia RTX 3090 24GB Founders Eddition
+Hardware Tested:  
+CPU: AMD 5950x (stock clock)  
+RAM: 128GB Trident Z Neo CL16  
+GPU: Nvidia RTX 3090 24GB Founders Eddition  
