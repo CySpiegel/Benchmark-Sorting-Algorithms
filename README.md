@@ -1,5 +1,5 @@
 # Benchmark-Sorting-Algorithms
-testing framework for Benchmarking sorting algorithms
+Testing framework for Benchmarking sorting algorithms
 
 The main idea for this is to see what the timings of each sorting algorithm looks like graphed out. The program at each step size generates an array for the current step size, that array can be randomly generated or worst case scenario depending on the options set. The below figures are random arrays. For each step a random array of a given step length is generated and saved as a master array. This is then copied for each sorting algorithm to solve so each step is sorting the same random array for the set being tested. I was interested in looking at how each sorting algorithm sorts and its time effecency when compairing the same array.
 
