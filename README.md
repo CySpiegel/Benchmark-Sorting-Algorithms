@@ -8,3 +8,9 @@ This is a sample run i did for all of the supported algorithms. This is solving 
 
 This run i had to disable the Insertion, Selection and bubble sort as it would just take way to long to complete the run. This figure is running random arrays from 0 to 100,000 integers in steps of 10,000 with each set being tested 100 times to get an average time for that set to remove any varriances in processor timing of other programs running.
 ![Figure 2](Figure_2.png)
+
+
+Hardware Tested:
+CPU: AMD 5950x (stock clock)
+RAM: 128GB Trident Z Neo CL16
+GPU: Nvidia RTX 3090 24GB Founders Eddition
